@@ -32,7 +32,8 @@
         "javascriptEnabled": true,
         "acceptSslCerts": true,
         "chromeOptions": {
-          "w3c": false
+          "w3c": false,
+          "args": ["--headless"]
         }
       }
     },
