@@ -1,4 +1,4 @@
 # bdd_nightwatch Installation
 
-    npm install
-    npm run test:func
+    git clone https://github.com/pocteo/bdd_nightwatch.git && cd $(basename $_ .git)
+    npm install && npm run test:func
